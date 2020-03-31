@@ -1,4 +1,4 @@
 # PROGRAM-PERTAMA-GUI-NETBEANS
-NIM   : 10118284
-NAMA  : Muhammad Alfian Saniputra
+NIM   : 10118267
+NAMA  : Hamdan Arif Hidayat
 KELAS : IF-7
